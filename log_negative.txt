@@ -1,0 +1,23 @@
+окт 29 16:01:57 kot-VM snapd-desktop-i[39974]: Detected new session 761 at /org/freedesktop/login1/session/_3761
+окт 29 16:01:57 kot-VM snapd-desktop-i[39974]: Detected new session 762 at /org/freedesktop/login1/session/_3762
+окт 29 16:02:00 kot-VM snapd-desktop-i[39974]: Detected new session 763 at /org/freedesktop/login1/session/_3763
+окт 29 16:02:00 kot-VM sudo[45291]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/dpkg -i /home/user2/google-chrome-stable_current_amd64.deb
+окт 29 16:02:00 kot-VM sudo[45291]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+окт 29 16:02:17 kot-VM sudo[45291]: pam_unix(sudo:session): session closed for user root
+окт 29 16:02:18 kot-VM snapd-desktop-i[39974]: Detected new session 764 at /org/freedesktop/login1/session/_3764
+окт 29 16:02:18 kot-VM sudo[45649]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/dpkg -s google-chrome-stable_current_amd64
+окт 29 16:02:18 kot-VM sudo[45649]: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1001)
+окт 29 16:02:18 kot-VM sudo[45649]: pam_unix(sudo:session): session closed for user root
+окт 29 16:02:18 kot-VM snapd-desktop-i[39974]: Detected new session 765 at /org/freedesktop/login1/session/_3765
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+окт 29 16:02:29 kot-VM snapd-desktop-i[39974]: Detected new session 777 at /org/freedesktop/login1/session/_3777
+окт 29 16:02:30 kot-VM snapd-desktop-i[39974]: Detected new session 778 at /org/freedesktop/login1/session/_3778
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+окт 29 16:02:39 kot-VM snapd-desktop-i[39974]: Detected new session 792 at /org/freedesktop/login1/session/_3792
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
